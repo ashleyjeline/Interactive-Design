@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+	
+    background-color:linen; 
+    color:black;
+    text-align:center;
+    padding:5px;
+    
+}
+#nav {
+    line-height:30px;
+    background-color: linen;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+    font-family: "Futura";
+    color:orange;      
+}
+#section {
+    width:400px;
+    float:left;
+    padding:10px;
+    font-family: "Futura";
+    color:orange;	 	 
+}
+#footer {
+    background-color:linen;
+    color:orange;
+    clear:both;
+    text-align:center;
+   	padding:5px;
+   	font-family: "Futura";	 	 
+}
+
+
+body {
+    background-color: ;
+}
+</style>
+
+</head>
+</body>
+
+h1 {
+    color: linen;
+    margin-left: 20px;
+    text-align: center;
+    font-family: "Futura PT";
+    font-size: 60px;
+}
+
+h2 { 
+	color: orange;
+    margin-left: 20px;
+    text-align: center;
+    font-family: "Futura PT";
+    font-size: 40px;
+}
+
+h3 {
+	color: linen;
+	margin-left: 20px;
+	text-align: center;
+	font-family: "Futura Pt";
+	font-size: 30px
+}
+
+a:link    {color:linen; background-color:transparent}
+a:visited {color:orange; background-color:transparent}
+a:hover   {color:orange; background-color:transparent}
+a:active  {color:white; background-color:transparent}
+</style>
+
+</html>
